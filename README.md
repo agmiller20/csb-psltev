@@ -1,8 +1,8 @@
-#title
+# Listening Test 
 
 Link: https://codesandbox.io/s/angela-final-2-psltev?file=/README.md
 
-##subtitle
+## Description
 
 For my final project, it’s slowly developing into something I could hopefully use for my research job on campus. I was talking about this class with my supervisor and he asked if there was a way I could recreate the website we use for our experiments so that it’s easier for us to use (as well as to record data). So I decided to try and recreate it for this final since it still kind of deals with sound, but just not in such an extensive way like some of our other projects were. I knew it would take a bit of work and that I’d have a pretty long code, so I knew coming into it that I wanted to keep it pretty simple for now and just get what I could put into it. That way I can work on it next semester for my job.
 I didn’t want to worry much about the design, because especially with the tests we do, the simpler and more straightforward we are, the easier it is for our tester’s to know what’s going on and what they need to do. I just wanted to have at least 4 different frequencies with a fairly small dB range, as well as a way for the tester to enter their name and which specific earbud they are using for the test. If I got that far, I wanted to see if I could find a way to save everything on the canvas, and I messed around with it a little, but I couldn’t get that to work for right now. I think I got everything done what I initially wanted to get done, but I can always add more in for my job next semester.
